@@ -2,4 +2,4 @@
 
 A collection of [Repurposed Structures](https://github.com/TelepathicGrunt/RepurposedStructures) mod compatiblity datapacks!
 Feel free to use/edit them.
-See their individual readmes for individual info.
+See their individual readmes for more info.
