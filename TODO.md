@@ -2,7 +2,7 @@ In order of priority:
 
 - [ ] Buzzier Bees pack - Adds apiary houses for each village
 - [ ] Buzzier Bees + Environmental compat pack - Changes swamp apiary houses to willow
-- [ ] Improved Environmental pack - Changes Flower Forest temple to Wisteria, adds carpenter and ceramist houses to villages and changes swamp mineshaft to willow. Does not contain the village wood swap; the original Environmental pack is HIGHLY RECOMMENDED as the new one presumes you have it.
+- [ ] Environmental pack 2 electric <CLICHE AVERTED> - Changes Flower Forest temple to Wisteria, adds carpenter and ceramist houses to villages and changes swamp mineshaft to willow. Does not contain the village wood swap; the original Environmental pack is HIGHLY RECOMMENDED as the new one presumes you have it.
 - [ ] Endergetic pack - Expands End villages to contain alien-looking Poise houses full of Puff Bugs
 - [ ] Outer End pack - Expands End villages to contain Azure and Violite 'zoos' with Spectraflies and Stalkers respectively
 - [ ] Atmospheric pack - Revamps Badlands Villages/Dungeons/etc to Yucca
