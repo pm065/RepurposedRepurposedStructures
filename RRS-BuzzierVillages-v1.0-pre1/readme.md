@@ -1,4 +1,4 @@
-## Buzzier Bees pack
+## Buzzier Villages (v1.0 pre1)
 
 Adds the following:
 
