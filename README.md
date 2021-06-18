@@ -1,4 +1,4 @@
-## Repurposed Repurposed Structures - the home of excessive amounts of structure packs! 
+## Repurposed Repurposed Structures - the home of excessive amounts of structure packs!
 
 ![BANNER](http://i.creativecommons.org/p/zero/1.0/88x31.png)
 
