@@ -1,4 +1,4 @@
-## Buzzier Bees-Environmental pack
+## Buzzier Villages-Environmental
 
 Adds the following:
 
