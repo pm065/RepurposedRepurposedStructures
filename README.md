@@ -7,5 +7,6 @@ See their individual readmes for more info.
 All packs are compatible with each other, unless otherwise stated, in which case there will usually be a compatibilty addon.
 
 ## Credits:
+
 - TelepathicGrunt for Repurposed Structures
 - Modding Legacy for Structure Gel, which was really helpful in creating/editing these structures
