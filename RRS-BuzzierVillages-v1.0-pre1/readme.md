@@ -1,4 +1,4 @@
-## Buzzier Villages (v1.0 pre1)
+## Buzzier Villages (v1.0)
 
 Adds the following:
 
@@ -6,4 +6,4 @@ Adds the following:
 
 Compatibilty:
 
-- Environmental compat pack: Switches around the Swamp Apiarist's House to use willow wood, cattails and mud
+- Environmental compat pack: Switches around the Swamp Apiarist's House to use willow wood, cattails and mud. REQUIRES EXTRA DOWNLOAD
