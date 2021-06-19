@@ -3,7 +3,7 @@
   "fallback": "repurposed_structures:village/oak/terminators",
   "elements": [
     {
-      "weight": 3,
+      "weight": 6,
       "element": {
         "location": "repurposed_structures:village/oak/houses/apiarist_house_1",
         "processors": "minecraft:empty",
